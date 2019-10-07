@@ -1,0 +1,16 @@
+{
+    "name": "chat",
+    "version": "0.1.0",
+    "dependencies": {
+        "compression": "^1.7.4",
+        "ejs": "~2.1.4",
+        "ent": "~0.1.0",
+        "express": "~4.17.1",
+        "express-session": "^1.16.2",
+        "helmet": "^3.21.1",
+        "redis": "^2.8.0",
+        "socket.io": "^2.3.0"
+    },
+    "author": "Rosher <tomves111@gmail.com>",
+    "description": "Real-time Chat"
+}
