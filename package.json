@@ -10,6 +10,9 @@
         "helmet": "^3.21.1",
         "redis": "^2.8.0",
         "socket.io": "^2.3.0"
+        "engines": {
+    "node": "10.15.1"
+  },
     },
     "author": "Rosher <tomves111@gmail.com>",
     "description": "Real-time Chat"
